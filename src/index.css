@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navText {
+  align-self: center;
+  font-size: 1.2rem;
+}

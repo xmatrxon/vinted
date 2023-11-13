@@ -1,0 +1,8 @@
+#root
+  > div.m-5
+  > div
+  > span
+  > button.p-paginator-page.p-paginator-element.p-link.p-highlight {
+  background-color: rgb(13 148 136);
+  color: white;
+}
